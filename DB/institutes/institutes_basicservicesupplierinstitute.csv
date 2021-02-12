@@ -1,0 +1,9 @@
+id,legal_status,focus_areas,impact_metrics
+1,Government,"{""Food security"",Water,Housing,Clothing}","{CERISE/ODD,GOGLA}"
+2,Government,"{""Food security"",Water,Housing}",{CERISE/ODD}
+3,Government,"{""Food security"",Water,Housing,Clothing,Sanitation,Education,Healthcare,""Energy & Environment""}","{CERISE/ODD,GOGLA,IRIS,SPTF4}"
+4,Government,"{""Food security"",Water,Housing,Clothing,Sanitation}","{CERISE/ODD,GOGLA,IRIS,SPTF4}"
+5,NGO,"{""Food security"",Water,Housing,Clothing,Sanitation,Education,Healthcare,""Energy & Environment"",""Waste management"",Agriculture}","{CERISE/ODD,GOGLA,IRIS,SPTF4,HEDERA}"
+6,NGO,"{""Food security"",Water,Housing,Clothing,Sanitation}",{CERISE/ODD}
+7,Private,{Sanitation},{GOGLA}
+8,Private,{Education},{IRIS}

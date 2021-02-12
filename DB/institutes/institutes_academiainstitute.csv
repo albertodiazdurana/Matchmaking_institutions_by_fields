@@ -1,0 +1,13 @@
+id,legal_status,research_areas
+1,University,"{""Food security"",Water,Housing,Clothing,Sanitation,Education,Healthcare,""Energy & Environment""}"
+2,R&D of private company,"{""Food security"",Water,Housing,Clothing}"
+3,R&D of NGO,"{""Food security"",Water,Housing,Clothing,Sanitation,Education,Healthcare,""Energy & Environment"",""Waste management"",Agriculture}"
+4,University,"{""Food security"",Water}"
+5,Research institute,"{""Food security"",Water,Housing,Clothing,Sanitation}"
+6,R&D of NGO,"{""Food security"",Water,Housing,Clothing,Sanitation,Education}"
+7,R&D of private company,"{""Food security"",Water,Housing,Clothing,Sanitation}"
+8,R&D of NGO,"{""Food security"",Water,Housing,Clothing}"
+9,Research institute,{Housing}
+10,University,{Clothing}
+11,University,{Education}
+12,,{}
