@@ -12,7 +12,7 @@ Matchmaking of institutions described by a given number of features is determeni
  
  How to read the results:
  
-Let's assume the output
+Let's assume the output array
 
 [[  5   1   2   0  12]
  [  5   1   2   0  12]
